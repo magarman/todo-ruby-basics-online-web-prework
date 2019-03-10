@@ -17,13 +17,13 @@ def greeting(greeting, name)
 end
 
 def return_a_value
- return "Nice"
+"Nice"
 end
 
 def last_evaluated_value
- return "expert"
+ "expert"
 end
 
 def pizza_party(a="cheese")
- return "#{a}"
+ "#{a}"
 end
