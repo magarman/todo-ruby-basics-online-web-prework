@@ -5,11 +5,11 @@ def division(num1,num2)
 end
 
 def assign_variable(value)
-  return "Bob"
+  "Bob"
 end
 
 def argue(phrase="I'm right and you are wrong!")
-  return "#{phrase}"
+  "#{phrase}"
 end
 
 def greeting(greeting, name)
